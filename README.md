@@ -31,10 +31,10 @@ To get the dataset:
   5) Checkmark : Connection box
   6) Click on : Request Archive and download your data.
 ```
-Then `Replace` your dataset with mine in the [Code](ss) and get your visualizations 💡.
+Then `Replace` your dataset with mine in the [Code](https://github.com/may12day/LinkedIn-Connection-Analysis/blob/master/Linkedin_analysis.ipynb) and get your visualizations 💡.
 
 ### Prerequisites <a name= "prerequisites"></a>
-Things you need to get this project running can be found in [Requirements.txt file](ss)
+Things you need to get this project running can be found in [Requirements.txt file](https://github.com/may12day/LinkedIn-Connection-Analysis/blob/master/requirements.txt)
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
